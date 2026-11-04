@@ -1,0 +1,10 @@
+{
+  "name": "modexa-2-0",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Modexa Digital homepage (Modexa 2.0). Pure HTML + CSS, no build step.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
